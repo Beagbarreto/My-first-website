@@ -1,0 +1,36 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h3{
+  font-style: oblique;
+  color: orange;
+}
+.intro {
+  font-style: italic;
+}
+
+p.intro{
+  font-size: 12px;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  line-height: 40px;
+}
+
+strong{
+  font-style: italic;
+}
+
+ em {
+   font-style: bold;
+ }
+
+img {
+  float: right;
+}
